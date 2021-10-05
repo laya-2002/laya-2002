@@ -1,3 +1,5 @@
+<html>
+<body>
 <p>
 <h1 align="center">Hello</h1>
 <h2 align="center"><em>I'm Laya</em></h2>
@@ -27,3 +29,5 @@ Playing chess     Reading articles     Solving puzzles     Watching movies
 <pre>
 <a href="https://www.linkedin.com/in/laya-2002" target="_blank">Linkedin</a>
 </pre>
+</body>
+</html>
