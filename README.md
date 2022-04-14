@@ -9,7 +9,7 @@
 I am pursuing my B.Tech in CSE from Institute of Aeronautical Engineering. 
 </p>
 <h3>Skills</h3>
-<pre>C   Python   Java   HTML   CSS   JavaScript   SQL   MS office   OOP   DS   Algo   Problem solving</pre>
+<pre>C   Python   Java   HTML   CSS   JavaScript   SQL   MS office   OOP   DS   Algo   Problem solving   Microsoft Azure</pre>
 <h3>Projects</h3>
 <p>
 I am currently working on Frontend Web Development. 
