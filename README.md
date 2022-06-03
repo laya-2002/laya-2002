@@ -7,7 +7,7 @@
 <h3>Experience</h3>
 <b>Content Developer</b>
 <pre>
-INSTITUTE OF AERONAUTICAL ENGINEERING  •  Part-time
+Institute of Aeronautical Engineering  •  Part-time
 Dec 2021 - Present
 Hyderabad, Telangana, India
 </pre>
