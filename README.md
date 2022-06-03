@@ -4,6 +4,19 @@
 <h1 align="center">Hello</h1>
 <h2 align="center"><em>I'm Laya</em></h2>
 </p>
+<h3>Experience</h3>
+<b>Content Developer</b>
+<pre>
+INSTITUTE OF AERONAUTICAL ENGINEERING  •  Part-time
+Dec 2021 - Present
+Hyderabad, Telangana, India
+</pre>
+<b>Future Ready Talent Intern</b>
+<pre>
+Microsoft  •  Internship
+Oct 2021 - Feb 2022
+Remote
+</pre>
 <h3>Education</h3>
 <p>
 I am pursuing my B.Tech in CSE from Institute of Aeronautical Engineering. 
@@ -12,11 +25,7 @@ I am pursuing my B.Tech in CSE from Institute of Aeronautical Engineering.
 <pre>C   Python   Java   HTML   CSS   JavaScript   SQL   MS office   OOP   DS   Algo   Problem solving   Microsoft Azure</pre>
 <h3>Projects</h3>
 <p>
-I am currently working on Frontend Web Development. 
-I am learning the Machine Learning technology and 
-interested to work on Machine Learning projects 
-using Python in upcoming days.
-</p>
+I am currently learning MEAN Stack technology and interested to work on related projects. I've experience in deploying projects and working with APIs hosted on Microsoft Azure cloud.</p>
 <h3>Coding profiles</h3>
 <pre>
 <a href="https://www.codechef.com/users/laya_2002" target="_blank">Codechef</a>    <a href="https://www.hackerrank.com/laya2002" target="_blank">Hackerrank</a>    <a href="https://www.interviewbit.com/profile/laya_2002" target="_blank">Interviewbit</a>    <a href="https://auth.geeksforgeeks.org/user/madavaramlaya/profile" target="_blank">GeeksforGeeks</a>
