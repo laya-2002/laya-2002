@@ -1,9 +1,10 @@
-<html>
-<body>
 <p>
 <h1 align="center">Hello</h1>
 <h2 align="center"><em>I'm Laya</em></h2>
-</p>
+</p> 
+
+[![@laya2002's Holopin board](https://holopin.me/laya2002)](https://holopin.io/@laya2002) 
+
 <h3>Experience</h3>
 <b>Content Developer</b>
 <pre>
@@ -38,5 +39,3 @@ Playing chess     Reading articles     Solving puzzles     Watching movies
 <pre>
 <a href="https://www.linkedin.com/in/laya-2002" target="_blank">Linkedin</a>
 </pre>
-</body>
-</html>
