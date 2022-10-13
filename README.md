@@ -9,7 +9,7 @@
 <b>Content Developer</b>
 <pre>
 Institute of Aeronautical Engineering  •  Part-time
-Dec 2021 - Present
+Dec 2021 - Sep 2022
 Hyderabad, Telangana, India
 </pre>
 <b>Future Ready Talent Intern</b>
