@@ -12,9 +12,9 @@ Institute of Aeronautical Engineering  •  Part-time
 Dec 2021 - Sep 2022
 Hyderabad, Telangana, India
 </pre>
-<b>Future Ready Talent Intern</b>
+<b>Student Intern</b>
 <pre>
-Microsoft  •  Internship
+Future Ready Talent  •  Internship
 Oct 2021 - Feb 2022
 Remote
 </pre>
