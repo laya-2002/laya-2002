@@ -6,6 +6,12 @@
 [![@laya2002's Holopin board](https://holopin.me/laya2002)](https://holopin.io/@laya2002) 
 
 <h3>Experience</h3>
+<b>Junior Software Test Automation Engineer</b>
+<pre>
+EPAM Systems  •  Internship
+Jan 2023 - Jun 2023
+Hyderabad, Telangana, India
+</pre>
 <b>Content Developer</b>
 <pre>
 Institute of Aeronautical Engineering  •  Part-time
@@ -20,7 +26,7 @@ Remote
 </pre>
 <h3>Education</h3>
 <p>
-I am pursuing my B.Tech in CSE from Institute of Aeronautical Engineering. 
+Graduated B.Tech in CSE from Institute of Aeronautical Engineering. 
 </p>
 <h3>Skills</h3>
 <pre>C   Python   Java   HTML   CSS   JavaScript   SQL   MS office   OOP   DS   Algo   Problem solving   Microsoft Azure</pre>
