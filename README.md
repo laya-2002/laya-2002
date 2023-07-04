@@ -14,7 +14,7 @@ Hyderabad, Telangana, India
 </pre>
 <b>Content Developer</b>
 <pre>
-Institute of Aeronautical Engineering  •  Part-time
+Institute of Aeronautical Engineering  •  Internship
 Dec 2021 - Sep 2022
 Hyderabad, Telangana, India
 </pre>
